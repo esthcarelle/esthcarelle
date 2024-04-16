@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hi Guysss! :blush:
 
 ## About Me
 I'm Esther Carrelle Rangira, an Android developer specializing in Jetpack Compose. I'm passionate about creating captivating apps with seamless animations and intuitive user interfaces.
